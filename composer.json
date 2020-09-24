@@ -1,5 +1,5 @@
 {
-    "name": "repeat_ui",
+    "name": "drupal/repeat_ui",
     "type": "drupal-module",
     "description": "UI for REPEAT",
     "keywords": [
@@ -8,6 +8,6 @@
     "minimum-stability": "dev",
     "support": {
         "issues": "https://www.drupal.org/project/issues/repeat_ui",
-        "source": "http://cgit.drupalcode.org/repeat_ui",
-    },
+        "source": "http://cgit.drupalcode.org/repeat_ui"
+    }
 }
