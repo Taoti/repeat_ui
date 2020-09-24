@@ -1,0 +1,5 @@
+name: 'REPEAT UI'
+type: module
+description: 'UI for REPEAT'
+core: 8.x
+package: 'Custom'
