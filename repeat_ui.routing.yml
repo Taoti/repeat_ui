@@ -1,0 +1,8 @@
+
+repeat_ui.components_ui_controller_list:
+  path: '/admin/taoti/repeat'
+  defaults:
+    _controller: '\Drupal\repeat_ui\Controller\ComponentsUIController::list'
+    _title: 'Repeat Components'
+  requirements:
+    _permission: 'access content'

@@ -1,0 +1,52 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "600e0c78b251c57fd9ff37dde2b372be",
+    "packages": [
+        {
+            "name": "taoti/repeat",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "git@github.com:Taoti/REPEAT.git",
+                "reference": "212a8d75e87969d863de21f65d2aecc3bff1239a"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/Taoti/REPEAT/zipball/212a8d75e87969d863de21f65d2aecc3bff1239a",
+                "reference": "212a8d75e87969d863de21f65d2aecc3bff1239a",
+                "shasum": ""
+            },
+            "type": "project",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Jimi Radabaugh",
+                    "email": "jradabaugh@taoti.com"
+                }
+            ],
+            "description": "Taoti repeatable components.",
+            "support": {
+                "source": "https://github.com/Taoti/REPEAT/tree/master",
+                "issues": "https://github.com/Taoti/REPEAT/issues"
+            },
+            "time": "2020-09-18T17:34:34+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "dev",
+    "stability-flags": {
+        "taoti/repeat": 20
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": [],
+    "plugin-api-version": "1.1.0"
+}
